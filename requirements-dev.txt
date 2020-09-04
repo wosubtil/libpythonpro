@@ -10,7 +10,7 @@ more-itertools==4.0.0
 py==1.8.2
 attrs==20.2.0
 pluggy<1.0,>=0.12
-toml
+toml==0.10.1
 iniconfig
 
 # Coverage
