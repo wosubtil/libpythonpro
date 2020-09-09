@@ -37,4 +37,3 @@ def test_remetente_invalido(remetente):
             'Curso Python Pro',
             'Primeira turma Guido Von Rossun'
         )
-
